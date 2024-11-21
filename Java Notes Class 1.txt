@@ -1,0 +1,23 @@
+//comment means to make some notes or write the meaning of the code
+//Always create Java files with nam.java and the  beagin with coding.
+
+//---------------------Meaning -------------------------
+
+//Class Main : which comes automatically is always has same name as file name. its work is to group or put up all code together.
+
+// void main() : this is a main or important function which executes your whole code or run so always make sure you put all the code here inside
+
+//public : other java files can also use the code its open to be used by other files.
+
+//System.out.println() : it is used to print a message in screen. Pass the message in ().
+
+
+//-------------------rules in Java------------------
+
+//1. Always put code in main()
+//2. Always put semicolon at the end of line. its like a full stop like coding.
+//3. Dont put semi-coln after {}
+//4. Always make sure taht bracketsare closed properly. if on ebracket is opening make sure its closed.
+//5. doc omments
+//6. //java is case sensitive that means inbuilt things there names you cannot chnage
+//7 message or text is always written in " "
